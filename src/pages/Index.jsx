@@ -45,7 +45,7 @@ export const Index = () => {
 						<input type="email" className="form-control" ref={emailField} />
 					</div>
 					<div className="mb-3">
-						<label className="form-label">User name</label>
+						<label className="form-label">Username</label>
 						<input type="text" className="form-control" ref={userNameField} />
 					</div>
 					<button type="submit" className="btn btn-primary">
